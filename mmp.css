@@ -190,7 +190,7 @@ footer a {
 .price-note {
     text-align: center;
     margin-top: 30px;
-    font-size: 14px;
+    font-size: 24px;
     opacity: 0.9;
 }
 
@@ -453,4 +453,5 @@ html {
     aspect-ratio: 9 / 16;
     object-fit: contain;  /* показує повністю */
 }
+
 
